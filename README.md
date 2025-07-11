@@ -14,6 +14,9 @@ API desenvolvida durante o curso do **DevClub**, utilizando Node.js, Express, Se
 
 ## 🚀 Como rodar o projeto
 
+
+Crie um arquivo .env com as variáveis necessárias para rodar o projeto.
+
 ```bash
 git clone https://github.com/jairo-de-lima/devburguer-api.git
 cd devburguer-api
